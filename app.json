@@ -1,14 +1,14 @@
 {
-    "name": "Telegram Support Bot",
+    "name": "MOM Support Bot",
     "description": "Deploy a Telegram bot that will help you to hide your identity.",
     "keywords": [
       "telegram-bot",
       "python",
       "proxy"
     ],
-    "website": "https://github.com/AlexGerberMOM/mom",
-    "repository": "https://github.com/AlexGerberMOM/mom",
-    "success_url": "https://github.com/AlexGerberMOM/mom",
+    "website": "https://github.com/AlexGerberMOM/mom-support",
+    "repository": "https://github.com/AlexGerberMOM/mom-support",
+    "success_url": "https://github.com/AlexGerberMOM/mom-support",
     "env": {
       "HEROKU_APP_NAME": {
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
